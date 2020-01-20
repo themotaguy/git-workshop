@@ -1,5 +1,5 @@
-class HelloWorld
-  def initialize(name)
+class HelloWorlp
+k  def initialize(name)
     @name = name.capitalize
   end
   # working here
